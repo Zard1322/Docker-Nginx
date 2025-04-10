@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Copyright (c) Robert Gallegos 04/08/2025
+
 # b. i. Start nginx service
 echo "starting nginx..."
 service nginx start
